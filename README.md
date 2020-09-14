@@ -1,2 +1,0 @@
-# staging
-Staging workshop files
