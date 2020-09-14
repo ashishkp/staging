@@ -4,7 +4,7 @@
     "loadBalancers": [
         {
             "targetGroupArn": "$ALB_TARGET_GROUP_ARN",
-            "containerName": "$CONTAINER_NAME",
+            "containerName": "cntr-img-tripmgmt",
             "containerPort": 8080
         }
     ],
