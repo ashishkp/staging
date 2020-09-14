@@ -5,5 +5,5 @@ Resources:
       Properties:
         TaskDefinition: "<<TASKDEF_ARN>>" 
         LoadBalancerInfo:
-          ContainerName: "<<CONTAINER_NAME>>"
+          ContainerName: "cntr-img-tripmgmt"
           ContainerPort: 8080
